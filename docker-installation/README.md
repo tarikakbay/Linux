@@ -6,7 +6,7 @@
 Terminalden aşağıda ki komutu çalıştırın.
 
 ```
-curl https://raw.githubusercontent.com/tarikakbay/Linux/main/docker-installation/docker-installation.sh | bash -
+curl https://raw.githubusercontent.com/tarikakbay/Linux/master/docker-installation/docker-installation.sh | bash -
 ```
 
 ilgili kurulum sonrası versiyon testi gerçekleştirilir.
